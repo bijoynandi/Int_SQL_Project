@@ -86,7 +86,7 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 ## Technical Details
 
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver
 - **Visualization Tools:** Claude
 
 ## Acknowledgement
