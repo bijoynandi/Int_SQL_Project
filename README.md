@@ -88,3 +88,11 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL
 - **Visualization Tools:** Claude
+
+## Acknowledgement
+
+I would like to express my sincere gratitude to [Luke Barousse](https://github.com/lukebarousse) for providing the guidance and resources that made this project possible. The expertise was invaluable in helping me analyze the dataset and derive actionable insights. The guidance and support were instrumental in the success of this project. Thank you, Luke, for your invaluable contributions!
+
+## Contact
+
+If you have any questions or would like to connect, feel free to reach out to me at [bijoynandi31@gmail.com](mailto:bijoynandi31@gmail.com). I'm always open to discussions and collaborations. Happy querying!
