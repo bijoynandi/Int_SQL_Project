@@ -20,7 +20,7 @@ Query: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
 
 **Visualization:**
 
-![@customer_segmentation.png](/images/2_customer_segmentation.png)
+![@customer_segmentation.png](/images/1_customer_segmentation.png)
 
 **Key Findings:**
 
